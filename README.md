@@ -1,5 +1,5 @@
 - 👋 Hi, we are @fortsecurity
 - 👀 we're interested in protecting your digital world
 - 🌱 we're currently building how to automate all the protection and defense you'll need for your personal attack surface
-- 💞️ we're looking to collaborate on amazxing security products for personal devices, networks and data
+- 💞️ we're looking to collaborate on amazing security products for personal devices, networks and data
 - 📫 How to reach us team@fortsecurity.io
